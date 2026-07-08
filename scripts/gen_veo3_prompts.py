@@ -24,8 +24,8 @@ STYLE_SUFFIX = (
     "A colorful, 3D embossed hand-painting style with raised textures and bold brushstrokes. "
     "Dark obsidian background #0A0A0F, vivid colorful palette with a dominant brand "
     "accent color splash (signal red #FF3B30, data yellow #FFD60A, mind purple #BF5AF2 or "
-    "nature green #30D158), smooth camera movement, professional cinematography, vertical "
-    "9:16 portrait framing, no text, no subtitles."
+    "nature green #30D158), smooth camera movement, professional cinematography, horizontal "
+    "16:9 landscape framing, no text, no subtitles."
 )
 
 MOVEMENTS = [
@@ -141,7 +141,7 @@ def main():
     print(f"  Du-lieu-lam-video/veo3_prompts.txt")
     print(f"\n  Hướng dẫn dùng với Google Studio Flow VEO 3:")
     print(f"  1. Mở studio.google.com/flow")
-    print(f"  2. Tạo project mới, chọn VEO 3, tỉ lệ khung hình 9:16")
+    print(f"  2. Tạo project mới, chọn VEO 3, tỉ lệ khung hình 16:9")
     print(f"  3. Copy từng prompt vào — mỗi clip 8 giây")
     print(f"  4. Đồng bộ nhân vật: dùng 'Character reference' từ clip đầu mỗi scene")
     print(f"  5. Ghép các clip của 1 scene lại = video nền cho scene đó")

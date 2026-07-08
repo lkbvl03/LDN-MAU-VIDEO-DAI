@@ -1,8 +1,11 @@
 // Effects.tsx — Cinematic emphasis effects synced to documentary audio
 // Inspired by: ho-so-cac-mau-hieu-ung-text.txt + ho-so-cac-mau-hieu-ung-icon-3d.txt
+//              + ho-so-ky-thuat-hieu-ung-chu.md (card text / chữ 3D, xem src/effects/)
 import React from "react";
 import { AbsoluteFill, interpolate, useCurrentFrame } from "remotion";
-import { FPS } from "./data";
+import { FPS, VIDEO_CONFIG } from "./data";
+import { CardTextEffect, type CardTextVariant } from "./effects/CardText";
+import { EmbossedText3D } from "./effects/EmbossedText3D";
 
 const GOLD    = "#c9a84c";
 const PURPLE  = "#C77DFF";   // accent kênh LDN — video tâm lý học
@@ -453,7 +456,12 @@ type EffectItem =
   | { type: "keyword"; startSec: number; text: string; color?: string; position?: "center" | "bottom" }
   | { type: "emoji"; startSec: number; emoji: string; x: number; y: number; size?: number; delay?: number }
   | { type: "quote"; startSec: number; text: string; accent?: string }
-  | { type: "letterbox"; startSec: number; text: string };
+  | { type: "letterbox"; startSec: number; text: string }
+  // "card" — thẻ tiêu đề/trích dẫn giữa video (xem src/effects/CardText.tsx,
+  // chuyển thể từ Du-lieu-lam-video/ho-so-ky-thuat-hieu-ung-chu.md Nhóm A + B6/B7)
+  | { type: "card"; startSec: number; variant: CardTextVariant; title: string; subtitle?: string; color?: string; highlightColor?: string }
+  // "text3d" — chữ nổi 3D embossed đúng bản sắc kênh (xem src/effects/EmbossedText3D.tsx)
+  | { type: "text3d"; startSec: number; text: string; color?: string; fontSize?: number };
 
 export const EFFECTS: EffectItem[] = [];
 
@@ -532,6 +540,28 @@ export const EffectsLayer: React.FC = () => {
                 key={idx}
                 frame={localFrame}
                 text={effect.text}
+              />
+            );
+          case "card":
+            return (
+              <CardTextEffect
+                key={idx}
+                frame={localFrame}
+                title={effect.title}
+                subtitle={effect.subtitle}
+                variant={effect.variant}
+                color={effect.color ?? VIDEO_CONFIG.accentColor}
+                highlightColor={effect.highlightColor}
+              />
+            );
+          case "text3d":
+            return (
+              <EmbossedText3D
+                key={idx}
+                frame={localFrame}
+                text={effect.text}
+                color={effect.color ?? VIDEO_CONFIG.accentColor}
+                fontSize={effect.fontSize}
               />
             );
         }

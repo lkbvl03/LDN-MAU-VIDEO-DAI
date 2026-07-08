@@ -12,8 +12,8 @@ export const RemotionRoot: React.FC = () => {
         component={RankingVideo}
         durationInFrames={90}
         fps={FPS}
-        width={1080}
-        height={1920}
+        width={2560}
+        height={1440}
         defaultProps={{ sceneTimings: [] }}
         calculateMetadata={calculateSceneMetadata}
       />
