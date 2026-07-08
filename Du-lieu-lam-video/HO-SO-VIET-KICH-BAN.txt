@@ -1,0 +1,196 @@
+# BỘ HỒ SƠ CHUYÊN GIA VIẾT KỊCH BẢN ĐA NĂNG
+### (Hook mạnh – Kết bài giữ tương tác – Áp dụng đa thể loại)
+
+---
+
+## PHẦN 1: NGUYÊN TẮC RETENTION CỐT LÕI
+
+1. **3 giây đầu quyết định 70% tỷ lệ xem hết.** Không giới thiệu, không chào hỏi, vào thẳng vấn đề.
+2. **Mỗi 5-7 giây phải có 1 "điểm neo"** (thông tin mới, câu hỏi, twist) để giữ não người xem không lướt.
+3. **Không giải quyết vấn đề ngay** – giữ khoảng trống tò mò (curiosity gap) tới gần cuối.
+4. **Kết bài luôn có 1 hành động cụ thể** (comment, share, xem phần 2, lưu lại...).
+5. **Vòng lặp hook-kết (loop):** Câu kết nên gọi lại câu mở đầu để tạo cảm giác trọn vẹn + thúc đẩy xem lại.
+
+---
+
+## PHẦN 2: KHO MẪU HOOK (12 NHÓM – THAY ĐỔI LINH HOẠT)
+
+### Nhóm 1 – Sốc / Nghịch lý
+- "Tôi đã [hành động tưởng đúng] và mất [hậu quả lớn]..."
+- "Mọi người đều nói [quan điểm phổ biến], nhưng sự thật thì ngược lại hoàn toàn."
+- "Nếu bạn đang làm [việc X], hãy dừng lại ngay trước khi xem hết video này."
+
+### Nhóm 2 – Tò mò / Giấu thông tin
+- "Có 1 điều mà [ngành/nhóm người] không bao giờ nói cho bạn biết..."
+- "Đây là lý do thật sự vì sao [hiện tượng], không phải như bạn nghĩ."
+- "Tôi sẽ chỉ nói điều này 1 lần, xem hết vì phần cuối mới là quan trọng nhất."
+
+### Nhóm 3 – Callout đối tượng
+- "Nếu bạn là [đối tượng cụ thể] mà chưa biết điều này thì..."
+- "Dừng lại nếu bạn đang [tình huống] – video này dành riêng cho bạn."
+- "90% người [đối tượng] đang mắc lỗi này mà không biết."
+
+### Nhóm 4 – Số liệu / Khung thời gian
+- "Chỉ 3 bước, 7 ngày, tôi đã [kết quả cụ thể]."
+- "1 thay đổi nhỏ giúp tăng [chỉ số] gấp đôi trong 1 tuần."
+- "99% người xem video này sẽ bỏ lỡ chi tiết ở giây thứ 15."
+
+### Nhóm 5 – Câu hỏi trực tiếp
+- "Bạn có bao giờ tự hỏi tại sao [hiện tượng] không?"
+- "Điều gì sẽ xảy ra nếu bạn [hành động]? Câu trả lời sẽ khiến bạn bất ngờ."
+
+### Nhóm 6 – Phản bác quan điểm
+- "Ai bảo bạn [quan điểm phổ biến] là đúng?"
+- "Đây là lý do vì sao [lời khuyên nổi tiếng] đang phá hủy [kết quả mong muốn] của bạn."
+
+### Nhóm 7 – Kể chuyện dở dang (in medias res)
+- Bắt đầu ngay tại cao trào: "Lúc đó tôi chỉ còn 5 phút để quyết định..."
+- "Mọi chuyện bắt đầu khi tôi nhận được tin nhắn này..."
+
+### Nhóm 8 – Cảnh báo / Nỗi sợ
+- "Nếu bạn đang [hành vi], có thể bạn đang mất [thứ quý giá] mà không nhận ra."
+- "Đừng làm điều này nếu chưa xem hết video."
+
+### Nhóm 9 – So sánh / Đối lập
+- "Người thành công làm điều này, người thất bại làm ngược lại."
+- "Trước và sau khi tôi áp dụng [phương pháp]..."
+
+### Nhóm 10 – Bí mật / Insider
+- "Đây là mẹo mà chỉ dân chuyên [ngành] mới biết."
+- "Tôi từng làm trong ngành [X], và đây là sự thật ít ai kể."
+
+### Nhóm 11 – Thử thách / Cam kết
+- "Tôi đã thử [thử thách] trong 30 ngày, kết quả là..."
+- "Hãy thử làm theo tôi, nếu không hiệu quả, comment tôi sẽ..."
+
+### Nhóm 12 – Gây tranh cãi nhẹ (controversial)
+- "Đây có thể là quan điểm gây tranh cãi, nhưng tôi vẫn phải nói..."
+- "Tôi sẽ nói điều mà không ai dám nói..."
+
+---
+
+## PHẦN 3: KHO MẪU KẾT BÀI / CTA (10 NHÓM)
+
+### Nhóm 1 – Câu hỏi tương tác
+- "Bạn nghĩ sao về điều này? Comment bên dưới nhé."
+- "Bạn đã từng gặp trường hợp này chưa? Kể mình nghe."
+
+### Nhóm 2 – Đóng vòng lặp (Callback to hook)
+- Gọi lại câu mở đầu: "Và đó là lý do vì sao [câu hook ban đầu] lại đúng."
+
+### Nhóm 3 – Gợi mở phần tiếp theo
+- "Phần 2 mình sẽ nói về [chủ đề liên quan] – follow để không bỏ lỡ."
+- "Nếu muốn biết cách [làm gì], comment 'phần 2' mình làm tiếp."
+
+### Nhóm 4 – Tạo cấp bách
+- "Chỉ áp dụng được trong [thời gian ngắn], làm ngay hôm nay."
+- "Nếu để lâu hơn, bạn sẽ mất cơ hội này."
+
+### Nhóm 5 – Kêu gọi lưu / chia sẻ
+- "Lưu lại video này để xem lại khi cần."
+- "Share cho ai đang gặp vấn đề này giúp mình nhé."
+
+### Nhóm 6 – Thử thách hành động
+- "Thử áp dụng trong 7 ngày rồi quay lại kể mình nghe kết quả."
+- "Comment 'tôi sẽ thử' nếu bạn quyết định làm theo."
+
+### Nhóm 7 – Twist bất ngờ cuối video
+- "Nhưng có 1 điều tôi chưa nói với bạn..." (mở ra thông tin mới ngay trước khi kết thúc)
+
+### Nhóm 8 – Câu khẳng định giá trị
+- "Đây là điều tôi ước ai đó nói với tôi sớm hơn."
+- "Nếu video này giúp ích, đó là lý do mình làm content."
+
+### Nhóm 9 – Dẫn dắt về sản phẩm/dịch vụ (bán hàng)
+- "Nếu muốn được hướng dẫn chi tiết hơn, link ở [vị trí]."
+- "Đây là cách tôi đã dùng để [kết quả], công cụ/khóa học ở bio."
+
+### Nhóm 10 – Câu kết mở, gây tò mò tiếp
+- "Và điều xảy ra tiếp theo mới thực sự đáng sợ... (hẹn video sau)"
+
+---
+
+## PHẦN 4: KHUNG KỊCH BẢN TỔNG QUÁT (ÁP DỤNG MỌI THỂ LOẠI)
+
+```
+[0-3s]   HOOK (chọn 1 trong 12 nhóm trên)
+[3-8s]   Setup vấn đề / bối cảnh (ngắn gọn, tăng tò mò)
+[8-70%]  Phát triển nội dung: chia nhỏ ý, mỗi đoạn có 1 "điểm neo"
+[70-90%] Cao trào / thông tin giá trị nhất (giữ lại tới đây)
+[90-100%] KẾT BÀI (chọn 1 trong 10 nhóm trên) + CTA
+```
+
+---
+
+## PHẦN 5: GỢI Ý PHỐI HỢP THEO THỂ LOẠI
+
+| Thể loại | Hook nên dùng | Kết bài nên dùng |
+|---|---|---|
+| Storytime | Nhóm 7 (dở dang), Nhóm 1 (sốc) | Nhóm 2 (đóng vòng lặp), Nhóm 7 (twist) |
+| Review/Unbox | Nhóm 9 (so sánh), Nhóm 4 (số liệu) | Nhóm 9 (dẫn sản phẩm), Nhóm 5 (lưu/share) |
+| Giáo dục/Kiến thức | Nhóm 2 (tò mò), Nhóm 10 (insider) | Nhóm 3 (phần tiếp theo), Nhóm 6 (thử thách) |
+| Bán hàng | Nhóm 3 (callout), Nhóm 4 (số liệu) | Nhóm 4 (cấp bách), Nhóm 9 (dẫn sản phẩm) |
+| Giải trí/Meme | Nhóm 1 (sốc), Nhóm 12 (tranh cãi) | Nhóm 1 (câu hỏi tương tác), Nhóm 8 (giá trị) |
+| Tâm sự/Cảm xúc | Nhóm 7 (dở dang), Nhóm 8 (cảnh báo) | Nhóm 8 (giá trị), Nhóm 1 (tương tác) |
+
+---
+
+## PHẦN 6: NGUYÊN TẮC NGÔN TỪ & VĂN PHONG
+
+### 6.1. Danh xưng (cách xưng hô)
+- Chọn 1 cặp xưng hô cố định xuyên suốt video, không đổi giữa chừng (gây rối, mất tin tưởng).
+- Gợi ý theo đối tượng:
+
+| Đối tượng | Xưng hô gợi ý | Sắc thái |
+|---|---|---|
+| Gen Z, giải trí | "mình – bạn" | Gần gũi, ngang hàng |
+| Kiến thức/chuyên môn | "tôi – bạn" | Trung lập, đáng tin |
+| Bán hàng/tư vấn | "em – anh/chị" hoặc "mình – bạn" | Tôn trọng, không hạ thấp người nghe |
+| Storytime cá nhân | "tôi/mình – các bạn" | Tâm sự, chân thật |
+
+- Tránh xưng "tao/mày" trừ khi kênh định vị rõ phong cách đó và đối tượng chấp nhận.
+- Tránh gọi người xem là "các bạn ơi" lặp lại quá nhiều lần – gây cảm giác rao giảng.
+
+### 6.2. Nguyên tắc dùng dẫn chứng khoa học
+- Chỉ trích dẫn khi có nguồn xác thực (nghiên cứu, tổ chức, chuyên gia cụ thể) – không bịa số liệu.
+- Cách nói an toàn: "Theo nghiên cứu của [tên tổ chức/năm]..." hoặc "Các chuyên gia trong lĩnh vực [X] cho biết...".
+- Nếu không chắc nguồn, dùng ngôn ngữ giảm nhẹ: "một số nghiên cứu cho thấy", "theo quan sát của nhiều người làm nghề" — thay vì khẳng định tuyệt đối.
+- Không dùng dạng "khoa học đã chứng minh" một cách chung chung, mơ hồ, không có nguồn.
+
+### 6.3. Cụ thể hóa – tránh trừu tượng
+- Thay tính từ mơ hồ bằng con số / hành động cụ thể.
+  - ❌ "Rất hiệu quả" → ✅ "Giảm 30% thời gian trong 2 tuần"
+  - ❌ "Nhiều người gặp vấn đề này" → ✅ "Theo khảo sát với 500 người, 68% gặp tình trạng này"
+  - ❌ "Cách này rất hay" → ✅ "Cách này gồm 3 bước, làm trong 5 phút mỗi ngày"
+- Ưu tiên động từ hành động, danh từ cụ thể; hạn chế trạng từ cường điệu ("cực kỳ", "vô cùng", "siêu").
+
+### 6.4. Tránh gây hiểu lầm
+- Không dùng câu khẳng định tuyệt đối cho vấn đề còn tranh cãi ("luôn luôn", "100% sẽ", "chắc chắn khỏi") trừ khi có bằng chứng chắc chắn.
+- Phân biệt rõ giữa "kinh nghiệm cá nhân" và "sự thật đã kiểm chứng": dùng cụm "theo trải nghiệm của tôi" khi chia sẻ quan điểm riêng.
+- Tránh gộp nhân – quả khi chưa chứng minh được liên hệ trực tiếp (VD: không nói "vì A nên B" nếu chỉ là trùng hợp).
+- Kiểm tra câu có thể hiểu theo 2 nghĩa không trước khi chốt kịch bản.
+
+### 6.5. Tránh áp đặt, giữ giọng tôn trọng
+- Dùng câu gợi mở thay vì ra lệnh:
+  - ❌ "Bạn phải làm ngay điều này" → ✅ "Bạn có thể cân nhắc thử cách này"
+  - ❌ "Đây là cách duy nhất đúng" → ✅ "Đây là 1 cách đã hiệu quả với tôi/nhiều người"
+- Khi đưa quan điểm cá nhân/tranh cãi, luôn gắn khung "góc nhìn của tôi", không trình bày như chân lý phổ quát.
+- Với lời khuyên nhạy cảm (tài chính, sức khỏe, tâm lý), luôn có câu giảm nhẹ trách nhiệm: "Đây là chia sẻ tham khảo, bạn nên tìm hiểu thêm/tham khảo chuyên gia trước khi áp dụng."
+
+### 6.6. Checklist duyệt văn phong trước khi hoàn thiện kịch bản
+- [ ] Danh xưng nhất quán từ đầu đến cuối
+- [ ] Không có số liệu/trích dẫn không rõ nguồn
+- [ ] Không còn tính từ mơ hồ có thể thay bằng con số/ví dụ cụ thể
+- [ ] Không có câu khẳng định tuyệt đối gây hiểu lầm
+- [ ] Không có câu ra lệnh/áp đặt, đã chuyển thành gợi mở
+- [ ] Có câu miễn trừ trách nhiệm nếu nội dung liên quan sức khỏe/tài chính/pháp lý
+
+---
+
+## CÁCH SỬ DỤNG HỒ SƠ NÀY
+Khi cần viết kịch bản mới, chỉ cần cung cấp: **chủ đề + thể loại + nền tảng**, hệ thống sẽ:
+1. Chọn 2-3 mẫu hook phù hợp từ Phần 2 (để bạn lựa)
+2. Dựng khung nội dung theo Phần 4
+3. Chọn 2-3 mẫu kết bài phù hợp từ Phần 3
+4. Ghép thành kịch bản hoàn chỉnh, đảm bảo hook và kết "khớp vòng lặp" với nhau
+5. Rà lại toàn bộ câu chữ theo checklist ở Phần 6.6 (danh xưng, dẫn chứng, tránh trừu tượng/hiểu lầm/áp đặt)
